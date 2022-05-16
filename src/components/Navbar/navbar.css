@@ -23,7 +23,7 @@
   grid-gap: 10px;
   list-style: none;
   text-align: center;
-  justify-content: end;
+  justify-content: center;
   background-color: #e00d7a;
   border-radius: 40px;
   border: 5px solid #b77777;
@@ -43,6 +43,10 @@
   border-radius: 4px;
   transition: all 0.2s ease-out;
   color: #fff;
+}
+
+.nav-links span {
+  margin-right: 10px;
 }
 
 .move-top {
